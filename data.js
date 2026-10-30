@@ -2,7 +2,7 @@ window.ARCHIVE_DATA = {
   "months": {
     "october": [
       "AI might have eaten a little bit of my brain.",
-      "I said in September I can’t recall much of my dreams. Actually, I don’t think I can recall much of anything. It's probably less about being busy and more about spending half the night sleeping with the lights on. Memory consolidation happens during uninterrupted sleep. Fuck."
+      "I said in September I can’t recall much of my dreams. Actually, I don’t think I can recall much of anything. It's probably less about being busy and more about spending half the night sleeping with the lights on. I found out memory consolidation happens during uninterrupted sleep. Fuck."
     ],
     "september": [
       "I haven’t been able to recall dreams clearly recently. Maybe it’s because I’m so busy with other things."
