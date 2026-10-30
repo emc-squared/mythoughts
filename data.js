@@ -16,10 +16,8 @@ window.ARCHIVE_DATA = {
     "NY, United States\nHow likely is it that I get robbed with my macbook out on the steps to the MET?",
     "SF, United States\nwhy are ALL the ads about AI. Without miss. It’s borderline eerie."
   ],
-  "questions": [
-    "Quisque velit nisi, pretium ut lacinia in, elementum id enim?"
-  ],
+  "questions": [],
   "itch": [
-    "Sed porttitor lectus nibh."
+    "Timestamp 1:03 in the song 3:15 (Breathe). The dum-dum-da-da-da-dum comes after *SO MUCH* edging."
   ]
 };
