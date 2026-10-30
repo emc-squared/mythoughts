@@ -2,13 +2,11 @@ window.ARCHIVE_DATA = {
   "months": {
     "october": [
       "AI might have eaten a little bit of my brain.",
-      "I said in September I can’t recall much of my dreams. Actually, I don’t think I can recall much of anything. And I don’t think it’s because I’m too busy. It’s more likely because I spend 50% of the night sleeping with the lights on. I forgot memory consolidation happens during uninterrupted sleep. Fuck."
+      "I said in September I can’t recall much of my dreams. Actually, I don’t think I can recall much of anything. It's probably less about being busy and more about spending half the night sleeping with the lights on. Memory consolidation happens during uninterrupted sleep. Fuck."
     ],
     "september": [
       "I haven’t been able to recall dreams clearly recently. Maybe it’s because I’m so busy with other things."
-    ],
-    "august": [],
-    "july": []
+    ]
   },
   "culture": [
     "NY, United States\nwhy are there so many food trucks? selling the same things? are they real? how can you possibly have so many food options in such a tiny truck? seems kind of fake to me…",
