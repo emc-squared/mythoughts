@@ -11,7 +11,10 @@ window.ARCHIVE_DATA = {
     "july": []
   },
   "culture": [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    "NY, United States\nwhy are there so many food trucks? selling the same things? are they real? how can you possibly have so many food options in such a tiny truck? seems kind of fake to me…",
+    "NY, United States\nwhy do cafes have such an expansive offer of pastries? I thought Europe was the one with hella pastries. I guess I was mistaken. There are way too many pastries in every single cafe (donuts, carrot cupcake??, muffins, scones, the list goes on). I thought butter was expensive??",
+    "NY, United States\nHow likely is it that I get robbed with my macbook out on the steps to the MET?",
+    "SF, United States\nwhy are ALL the ads about AI. Without miss. It’s borderline eerie."
   ],
   "questions": [
     "Quisque velit nisi, pretium ut lacinia in, elementum id enim?"
