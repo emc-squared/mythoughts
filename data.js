@@ -1,7 +1,7 @@
 window.ARCHIVE_DATA = {
   "months": {
     "october": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "AI might have eaten a little bit of my brain.",
       "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
     ],
     "september": [
