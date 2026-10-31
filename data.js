@@ -4,7 +4,8 @@ window.ARCHIVE_DATA = {
       "AI might have eaten a little bit of my brain.",
       "I said in September I can’t recall much of my dreams. Actually, I don’t think I can recall much of anything. It's probably less about being busy and more about spending half the night sleeping with the lights on. I found out memory consolidation happens during uninterrupted sleep. Fuck.",
       "I find it *incredibly* frustrating where at one point in time I had full grasp and understanding of a concept, but after not coming back to it I now have almost completely forgotten everything about it. I hate learning something in depth right now just knowing that I will approach it again in the future like I’ve never learned it.",
-      "Sometimes I have to stop thinking. Just fucking do it and see how it goes. Thinking will lead to negative marginal utility."
+      "Sometimes I have to stop thinking. Just fucking do it and see how it goes. Thinking will lead to negative marginal utility.",
+      "It used to be the case that Claude would help me write. But now I help Claude write."
     ],
     "september": [
       "I haven’t been able to recall dreams clearly recently. Maybe it’s because I’m so busy with other things.",
