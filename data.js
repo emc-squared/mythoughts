@@ -29,5 +29,8 @@ window.ARCHIVE_DATA = {
   ],
   "itch": [
     "Timestamp 1:03 in the song 3:15 (Breathe). The dum-dum-da-da-da-dum comes after *SO MUCH* edging."
+  ],
+  "miscellaneous": [
+    "record of when i start noticing the sky turning dark abnormally early: 02/11. the sky turned dark at 4:50pm."
   ]
 };
