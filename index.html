@@ -19,6 +19,7 @@
         <button class="nav-link" data-page="culture">culture shocks</button>
         <button class="nav-link" data-page="questions">questions</button>
         <button class="nav-link" data-page="itch">what scratches the itch</button>
+        <button class="nav-link" data-page="miscellaneous">miscellaneous</button>
       </nav>
     </div>
     <footer class="home-footer"><p>a very unofficial record of existence.</p><p>updated sporadically</p></footer>
@@ -34,7 +35,7 @@
 <script src="data.js"></script>
 <script>
 const archive = window.ARCHIVE_DATA || {months:{},culture:[],questions:[],itch:[]};
-const labels={month:'by month',culture:'culture shocks',questions:'questions',itch:'what scratches the itch'};
+const labels={month:'by month',culture:'culture shocks',questions:'questions',itch:'what scratches the itch',miscellaneous:'miscellaneous'};
 let state={page:'home',month:Object.keys(archive.months)[0] || 'october',style:'slip'};
 const home=document.querySelector('#home'),collection=document.querySelector('#collection'),content=document.querySelector('#content'),toggle=null;
 function node(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!==undefined)e.textContent=txt;return e;}
