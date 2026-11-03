@@ -31,6 +31,6 @@ window.ARCHIVE_DATA = {
     "Timestamp 1:03 in the song 3:15 (Breathe). The dum-dum-da-da-da-dum comes after *SO MUCH* edging."
   ],
   "miscellaneous": [
-    "record of when i start noticing the sky turning dark abnormally early: monday, 02/11/2026. the sky turned dark at 4:50pm."
+    "record of when i start noticing the sky turning dark abnormally early:\n2026: monday, 02/11. the sky turned dark at 4:50pm."
   ]
 };
