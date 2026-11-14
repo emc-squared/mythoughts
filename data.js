@@ -2,8 +2,7 @@ window.ARCHIVE_DATA = {
   "months": {
     "november": [
       "My biggest fear is realizing what I truly want too late, and spending (wasting, arguably) the four years of my college life in confusion.",
-      "I have never been so unbelievably lost.",
-      "So I think it’s bad that I (and others, I guess) am not more publicly shamed for skipping class. I don’t know when it’s become okay for me to not feel much shame chatting an assignment for a gut class, or skipping lecture altogether and not bother catching up until a week later. Maybe it would be a good thing if we introduced public humiliation (i’m talking about reprimanding from friends, not some salem witch trial type sh), because right now I don’t feel enough remorse or incentive to stop, when I feel like I should."
+      "I have never been so unbelievably lost."
     ],
     "october": [
       "AI might have eaten a little bit of my brain.",
@@ -34,10 +33,12 @@ window.ARCHIVE_DATA = {
   ],
   "itch": [
     "Timestamp 1:03 in the song 3:15 (Breathe). The dum-dum-da-da-da-dum comes after *SO MUCH* edging.",
-    "When I press play on a playlist that’s on shuffle mode, and it queues the perfect list songs that I’m actually excited to listen to (i.e. ones that I’m somewhat familiar with, but are not overplayed yet).",
-    "When I’m on aux and find the perfect sequence of songs to queue."
+    "songs in my playlist that are the perfect balance between too fresh and overplayed."
   ],
   "miscellaneous": [
     "record of when i start noticing the sky turning dark abnormally early:\n2026: monday, 02/11. the sky turned dark at 4:50pm."
+  ],
+  "takes": [
+    "So I think it’s bad that I (and others, I guess) am not more publicly shamed for skipping class. I don’t know when it’s become okay for me to not feel much shame chatting an assignment for a gut class, or skipping lecture altogether and not bother catching up until a week later. Maybe it would be a good thing if we introduced public humiliation (i’m talking about reprimanding from friends, not some salem witch trial type sh), because right now I don’t feel enough remorse or incentive to stop, when I feel like I should."
   ]
 };
