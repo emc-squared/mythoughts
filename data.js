@@ -1,5 +1,10 @@
 window.ARCHIVE_DATA = {
   "months": {
+    "november": [
+      "My biggest fear is realizing what I truly want too late, and spending (wasting, arguably) the four years of my college life in confusion.",
+      "I have never been so unbelievably lost.",
+      "So I think it’s bad that I (and others, I guess) am not more publicly shamed for skipping class. I don’t know when it’s become okay for me to not feel much shame chatting an assignment for a gut class, or skipping lecture altogether and not bother catching up until a week later. Maybe it would be a good thing if we introduced public humiliation (i’m talking about reprimanding from friends, not some salem witch trial type sh), because right now I don’t feel enough remorse or incentive to stop, when I feel like I should."
+    ],
     "october": [
       "AI might have eaten a little bit of my brain.",
       "I said in September I can’t recall much of my dreams. Actually, I don’t think I can recall much of anything. It's probably less about being busy and more about spending half the night sleeping with the lights on. I found out memory consolidation happens during uninterrupted sleep. Fuck.",
