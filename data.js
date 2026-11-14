@@ -28,7 +28,9 @@ window.ARCHIVE_DATA = {
     "*Living* is not enough. What does it mean to thrive?"
   ],
   "itch": [
-    "Timestamp 1:03 in the song 3:15 (Breathe). The dum-dum-da-da-da-dum comes after *SO MUCH* edging."
+    "Timestamp 1:03 in the song 3:15 (Breathe). The dum-dum-da-da-da-dum comes after *SO MUCH* edging.",
+    "When I press play on a playlist that’s on shuffle mode, and it queues the perfect list songs that I’m actually excited to listen to (i.e. ones that I’m somewhat familiar with, but are not overplayed yet).",
+    "When I’m on aux and find the perfect sequence of songs to queue."
   ],
   "miscellaneous": [
     "record of when i start noticing the sky turning dark abnormally early:\n2026: monday, 02/11. the sky turned dark at 4:50pm."
